@@ -1,0 +1,9 @@
+* piccolo
+
+A beautiful, easily composable HTML5 generation library for Common Lisp
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/skyizwhite/piccolo.git |
+| commit  | 40df277                                       |
+| systems | piccolo                                       |
+|---------+-----------------------------------------------|
