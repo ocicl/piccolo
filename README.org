@@ -4,6 +4,6 @@ A beautiful, easily composable HTML5 generation library for Common Lisp
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/skyizwhite/piccolo.git |
-| commit  | d3c487f                                       |
+| commit  | 9745dc6                                       |
 | systems | hsx                                           |
 |---------+-----------------------------------------------|
